@@ -57,11 +57,17 @@
   * [0287. Find the Duplicate Number](problems/0287-find-the-duplicate-number.md)
 
 * **Trees**
+  * [0100. Same Tree](problems/0100-same-tree.md)
   * [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
+  * [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
   * [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
+  * [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
 
 * **Backtracking**
   * [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
+
+* **Greedy**
+  * [0678. Valid Parenthesis String](problems/0678-valid-parenthesis-string.md)
 
 * **Machine Learning (NeetCode ML)**
   * [ML Progress Tracker](machine-learning/README.md)
@@ -71,6 +77,7 @@
   * [Cross-Entropy Loss](machine-learning/cross-entropy-loss.md)
   * [Linear Regression (Forward)](machine-learning/linear-regression-forward.md)
   * [Linear Regression (Training)](machine-learning/linear-regression-training.md)
+  * [Single Neuron](machine-learning/single-neuron.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)

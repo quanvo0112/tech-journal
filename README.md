@@ -10,13 +10,13 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **47 / 150 (31%)** | **47** | 12 | 28 | 7 |
+| **51 / 150 (34%)** | **51** | 15 | 29 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **6 / 36 (17%)** | **6** | 5 / 13 | 1 / 21 | 0 / 2 |
+| **7 / 36 (19%)** | **7** | 6 / 13 | 1 / 21 | 0 / 2 |
 
 ---
 
@@ -43,7 +43,9 @@
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search, Matrix | [Note](problems/0074-search-a-2d-matrix.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span class="badge badge-hard">Hard</span> | Hash Table, String, Sliding Window | [Note](problems/0076-minimum-window-substring.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span class="badge badge-hard">Hard</span> | Array, Stack, Monotonic Stack | [Note](problems/0084-largest-rectangle-in-histogram.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0100-same-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0104-maximum-depth-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0110-balanced-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span class="badge badge-easy">Easy</span> | Array, Dynamic Programming | [Note](problems/0121-best-time-to-buy-and-sell-stock.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span class="badge badge-easy">Easy</span> | Two Pointers, String | [Note](problems/0125-valid-palindrome.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Union-Find | [Note](problems/0128-longest-consecutive-sequence.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -65,7 +67,9 @@
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Binary Search, Bit Manipulation | [Note](problems/0287-find-the-duplicate-number.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Note](problems/0347-top-k-frequent-elements.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Sliding Window | [Note](problems/0424-longest-repeating-character-replacement.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0543-diameter-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <span class="badge badge-medium">Medium</span> | Hash Table, Two Pointers, String, Sliding Window | [Note](problems/0567-permutation-in-string.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | <span class="badge badge-medium">Medium</span> | String, Dynamic Programming, Stack, Greedy | [Note](problems/0678-valid-parenthesis-string.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <span class="badge badge-easy">Easy</span> | Array, Binary Search | [Note](problems/0704-binary-search.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Monotonic Stack | [Note](problems/0739-daily-temperatures.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Sorting, Monotonic Stack | [Note](problems/0853-car-fleet.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -132,12 +136,12 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (2/15)
+#### 7. Trees (5/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
-- [ ] 0543\. Diameter of Binary Tree
-- [ ] 0110\. Balanced Binary Tree
-- [ ] 0100\. Same Tree
+- [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
+- [x] [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
+- [x] [0100. Same Tree](problems/0100-same-tree.md)
 - [ ] 0572\. Subtree of Another Tree
 - [ ] 0235\. Lowest Common Ancestor of a BST
 - [ ] 0102\. Binary Tree Level Order Traversal
@@ -225,7 +229,7 @@
 - [ ] 0312\. Burst Balloons
 - [ ] 0010\. Regular Expression Matching
 
-#### 15. Greedy (0/8)
+#### 15. Greedy (1/8)
 - [ ] 0053\. Maximum Subarray
 - [ ] 0055\. Jump Game
 - [ ] 0045\. Jump Game II
@@ -233,7 +237,7 @@
 - [ ] 0846\. Hand of Straights
 - [ ] 1899\. Merge Triplets to Form Target Triplet
 - [ ] 0763\. Partition Labels
-- [ ] 0678\. Valid Parenthesis String
+- [x] [0678. Valid Parenthesis String](problems/0678-valid-parenthesis-string.md)
 
 #### 16. Intervals (0/6)
 - [ ] 0057\. Insert Interval
@@ -274,8 +278,8 @@
 - [x] [Linear Regression (Forward)](machine-learning/linear-regression-forward.md)
 - [x] [Linear Regression (Training)](machine-learning/linear-regression-training.md)
 
-#### 2. Build a Neural Net (0/5)
-- [ ] Single Neuron
+#### 2. Build a Neural Net (1/5)
+- [x] [Single Neuron](machine-learning/single-neuron.md)
 - [ ] Backpropagation
 - [ ] Multi-Layer Backpropagation
 - [ ] MLP from Scratch
