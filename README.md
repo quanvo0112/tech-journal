@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **7 / 36 (19%)** | **7** | 6 / 13 | 1 / 21 | 0 / 2 |
+| **8 / 36 (22%)** | **8** | 6 / 13 | 2 / 21 | 0 / 2 |
 
 ---
 
@@ -278,9 +278,9 @@
 - [x] [Linear Regression (Forward)](machine-learning/linear-regression-forward.md)
 - [x] [Linear Regression (Training)](machine-learning/linear-regression-training.md)
 
-#### 2. Build a Neural Net (1/5)
+#### 2. Build a Neural Net (2/5)
 - [x] [Single Neuron](machine-learning/single-neuron.md)
-- [ ] Backpropagation
+- [x] [Backpropagation](machine-learning/backpropagation.md)
 - [ ] Multi-Layer Backpropagation
 - [ ] MLP from Scratch
 - [ ] Weight Initialization

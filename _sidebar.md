@@ -78,6 +78,7 @@
   * [Linear Regression (Forward)](machine-learning/linear-regression-forward.md)
   * [Linear Regression (Training)](machine-learning/linear-regression-training.md)
   * [Single Neuron](machine-learning/single-neuron.md)
+  * [Backpropagation](machine-learning/backpropagation.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)

@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **7 / 36 (19%)** | **7** | 6 / 13 | 1 / 21 | 0 / 2 |
+| **8 / 36 (22%)** | **8** | 6 / 13 | 2 / 21 | 0 / 2 |
 
 ---
 
@@ -23,6 +23,7 @@
 | 05 | Math Foundations | [Linear Regression (Forward)](https://neetcode.io/problems/linear-regression-forward) | <span class="badge badge-easy">Easy</span> | NumPy | [Note](linear-regression-forward.md) | <span class="badge badge-solved">Solved</span> | - |
 | 06 | Math Foundations | [Linear Regression (Training)](https://neetcode.io/problems/linear-regression-training) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](linear-regression-training.md) | <span class="badge badge-solved">Solved</span> | - |
 | 07 | Build a Neural Net | [Single Neuron](https://neetcode.io/problems/single-neuron) | <span class="badge badge-easy">Easy</span> | NumPy | [Note](single-neuron.md) | <span class="badge badge-solved">Solved</span> | - |
+| 08 | Build a Neural Net | [Backpropagation](https://neetcode.io/problems/backpropagation) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](backpropagation.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -36,9 +37,9 @@
 - [x] [Linear Regression (Forward)](linear-regression-forward.md)
 - [x] [Linear Regression (Training)](linear-regression-training.md)
 
-#### 2. Build a Neural Net (1/5)
+#### 2. Build a Neural Net (2/5)
 - [x] [Single Neuron](single-neuron.md)
-- [ ] Backpropagation
+- [x] [Backpropagation](backpropagation.md)
 - [ ] Multi-Layer Backpropagation
 - [ ] MLP from Scratch
 - [ ] Weight Initialization
