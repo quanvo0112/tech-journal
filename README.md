@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **52 / 150 (35%)** | **52** | 16 | 29 | 7 |
+| **53 / 150 (35%)** | **53** | 16 | 30 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -60,6 +60,7 @@
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <span class="badge badge-easy">Easy</span> | Linked List, Recursion | [Note](problems/0206-reverse-linked-list.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <span class="badge badge-easy">Easy</span> | Array, Hash Table, Sorting | [Note](problems/0217-contains-duplicate.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0226-invert-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <span class="badge badge-medium">Medium</span> | Array, Prefix Sum | [Note](problems/0238-product-of-array-except-self.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | <span class="badge badge-hard">Hard</span> | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | [Note](problems/0239-sliding-window-maximum.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <span class="badge badge-easy">Easy</span> | Hash Table, String, Sorting | [Note](problems/0242-valid-anagram.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
@@ -137,14 +138,14 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (6/15)
+#### 7. Trees (7/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
 - [x] [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
 - [x] [0100. Same Tree](problems/0100-same-tree.md)
 - [x] [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
-- [ ] 0235\. Lowest Common Ancestor of a BST
+- [x] [0235. Lowest Common Ancestor of a BST](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
 - [ ] 0102\. Binary Tree Level Order Traversal
 - [ ] 0199\. Binary Tree Right Side View
 - [ ] 1448\. Count Good Nodes in Binary Tree

@@ -61,6 +61,7 @@
   * [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
   * [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
   * [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
+  * [0235. Lowest Common Ancestor of a Binary Search Tree](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
   * [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
   * [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
 
