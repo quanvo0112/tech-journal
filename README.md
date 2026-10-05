@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **53 / 150 (35%)** | **53** | 16 | 30 | 7 |
+| **54 / 150 (36%)** | **54** | 16 | 31 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -44,6 +44,7 @@
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span class="badge badge-hard">Hard</span> | Hash Table, String, Sliding Window | [Note](problems/0076-minimum-window-substring.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span class="badge badge-hard">Hard</span> | Array, Stack, Monotonic Stack | [Note](problems/0084-largest-rectangle-in-histogram.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0100-same-tree.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <span class="badge badge-medium">Medium</span> | Tree, Breadth-First Search, Binary Tree | [Note](problems/0102-binary-tree-level-order-traversal.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0104-maximum-depth-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0110-balanced-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span class="badge badge-easy">Easy</span> | Array, Dynamic Programming | [Note](problems/0121-best-time-to-buy-and-sell-stock.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -138,7 +139,7 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (7/15)
+#### 7. Trees (8/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -146,7 +147,7 @@
 - [x] [0100. Same Tree](problems/0100-same-tree.md)
 - [x] [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
 - [x] [0235. Lowest Common Ancestor of a BST](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
-- [ ] 0102\. Binary Tree Level Order Traversal
+- [x] [0102. Binary Tree Level Order Traversal](problems/0102-binary-tree-level-order-traversal.md)
 - [ ] 0199\. Binary Tree Right Side View
 - [ ] 1448\. Count Good Nodes in Binary Tree
 - [ ] 0098\. Validate Binary Search Tree
