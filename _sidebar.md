@@ -62,6 +62,7 @@
   * [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
   * [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
   * [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
+  * [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
 
 * **Backtracking**
   * [0022. Generate Parentheses](problems/0022-generate-parentheses.md)

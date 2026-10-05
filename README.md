@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **51 / 150 (34%)** | **51** | 15 | 29 | 7 |
+| **52 / 150 (35%)** | **52** | 16 | 29 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -69,6 +69,7 @@
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Sliding Window | [Note](problems/0424-longest-repeating-character-replacement.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0543-diameter-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <span class="badge badge-medium">Medium</span> | Hash Table, Two Pointers, String, Sliding Window | [Note](problems/0567-permutation-in-string.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | [Note](problems/0572-subtree-of-another-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | <span class="badge badge-medium">Medium</span> | String, Dynamic Programming, Stack, Greedy | [Note](problems/0678-valid-parenthesis-string.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <span class="badge badge-easy">Easy</span> | Array, Binary Search | [Note](problems/0704-binary-search.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Monotonic Stack | [Note](problems/0739-daily-temperatures.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -136,13 +137,13 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (5/15)
+#### 7. Trees (6/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
 - [x] [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
 - [x] [0100. Same Tree](problems/0100-same-tree.md)
-- [ ] 0572\. Subtree of Another Tree
+- [x] [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
 - [ ] 0235\. Lowest Common Ancestor of a BST
 - [ ] 0102\. Binary Tree Level Order Traversal
 - [ ] 0199\. Binary Tree Right Side View
