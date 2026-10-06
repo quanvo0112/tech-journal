@@ -66,6 +66,7 @@
   * [0235. Lowest Common Ancestor of a Binary Search Tree](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
   * [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
   * [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
+  * [1448. Count Good Nodes in Binary Tree](problems/1448-count-good-nodes-in-binary-tree.md)
 
 * **Backtracking**
   * [0022. Generate Parentheses](problems/0022-generate-parentheses.md)

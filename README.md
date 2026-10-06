@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **55 / 150 (37%)** | **55** | 16 | 32 | 7 |
+| **57 / 150 (38%)** | **57** | 16 | 34 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -43,6 +43,7 @@
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search, Matrix | [Note](problems/0074-search-a-2d-matrix.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span class="badge badge-hard">Hard</span> | Hash Table, String, Sliding Window | [Note](problems/0076-minimum-window-substring.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span class="badge badge-hard">Hard</span> | Array, Stack, Monotonic Stack | [Note](problems/0084-largest-rectangle-in-histogram.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0098-validate-binary-search-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0100-same-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <span class="badge badge-medium">Medium</span> | Tree, Breadth-First Search, Binary Tree | [Note](problems/0102-binary-tree-level-order-traversal.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0104-maximum-depth-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -79,6 +80,7 @@
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Sorting, Monotonic Stack | [Note](problems/0853-car-fleet.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search | [Note](problems/0875-koko-eating-bananas.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Binary Search, Design | [Note](problems/0981-time-based-key-value-store.md) | <span class="badge badge-solved">Solved</span> | - |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/1448-count-good-nodes-in-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -140,7 +142,7 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (9/15)
+#### 7. Trees (11/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -150,8 +152,8 @@
 - [x] [0235. Lowest Common Ancestor of a BST](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
 - [x] [0102. Binary Tree Level Order Traversal](problems/0102-binary-tree-level-order-traversal.md)
 - [x] [0199. Binary Tree Right Side View](problems/0199-binary-tree-right-side-view.md)
-- [ ] 1448\. Count Good Nodes in Binary Tree
-- [ ] 0098\. Validate Binary Search Tree
+- [x] [1448. Count Good Nodes in Binary Tree](problems/1448-count-good-nodes-in-binary-tree.md)
+- [x] [0098. Validate Binary Search Tree](problems/0098-validate-binary-search-tree.md)
 - [ ] 0230\. Kth Smallest Element in a BST
 - [ ] 0105\. Construct Binary Tree from Preorder & Inorder
 - [ ] 0124\. Binary Tree Maximum Path Sum
