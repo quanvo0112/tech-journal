@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **11 / 36 (31%)** | **11** | 6 / 13 | 5 / 21 | 0 / 2 |
+| **12 / 36 (33%)** | **12** | 7 / 13 | 5 / 21 | 0 / 2 |
 
 ---
 
@@ -27,6 +27,7 @@
 | 09 | Build a Neural Net | [Multi-Layer Backpropagation](https://neetcode.io/problems/multi-layer-backpropagation) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](multi-layer-backpropagation.md) | <span class="badge badge-solved">Solved</span> | - |
 | 10 | Build a Neural Net | [MLP From Scratch](https://neetcode.io/problems/mlp-from-scratch) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](mlp-from-scratch.md) | <span class="badge badge-solved">Solved</span> | - |
 | 11 | Build a Neural Net | [Weight Initialization](https://neetcode.io/problems/weight-initialization) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](weight-initialization.md) | <span class="badge badge-solved">Solved</span> | - |
+| 12 | PyTorch | [Pytorch Basics](https://neetcode.io/problems/pytorch-basics) | <span class="badge badge-easy">Easy</span> | PyTorch | [Note](pytorch-basics.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -47,8 +48,8 @@
 - [x] [MLP From Scratch](mlp-from-scratch.md)
 - [x] [Weight Initialization](weight-initialization.md)
 
-#### 3. PyTorch (0/4)
-- [ ] Pytorch Basics
+#### 3. PyTorch (1/4)
+- [x] [Pytorch Basics](pytorch-basics.md)
 - [ ] Layer Normalization
 - [ ] Batch Normalization
 - [ ] RMS Normalization

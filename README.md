@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **11 / 36 (31%)** | **11** | 6 / 13 | 5 / 21 | 0 / 2 |
+| **12 / 36 (33%)** | **12** | 7 / 13 | 5 / 21 | 0 / 2 |
 
 ---
 
@@ -291,8 +291,8 @@
 - [x] [MLP from Scratch](machine-learning/mlp-from-scratch.md)
 - [x] [Weight Initialization](machine-learning/weight-initialization.md)
 
-#### 3. PyTorch (0/4)
-- [ ] Pytorch Basics
+#### 3. PyTorch (1/4)
+- [x] [Pytorch Basics](machine-learning/pytorch-basics.md)
 - [ ] Layer Normalization
 - [ ] Batch Normalization
 - [ ] RMS Normalization
