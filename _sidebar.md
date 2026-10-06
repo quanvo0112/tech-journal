@@ -57,6 +57,7 @@
   * [0287. Find the Duplicate Number](problems/0287-find-the-duplicate-number.md)
 
 * **Trees**
+  * [0098. Validate Binary Search Tree](problems/0098-validate-binary-search-tree.md)
   * [0100. Same Tree](problems/0100-same-tree.md)
   * [0102. Binary Tree Level Order Traversal](problems/0102-binary-tree-level-order-traversal.md)
   * [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
