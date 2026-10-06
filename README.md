@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **10 / 36 (28%)** | **10** | 6 / 13 | 4 / 21 | 0 / 2 |
+| **11 / 36 (31%)** | **11** | 6 / 13 | 5 / 21 | 0 / 2 |
 
 ---
 
@@ -284,12 +284,12 @@
 - [x] [Linear Regression (Forward)](machine-learning/linear-regression-forward.md)
 - [x] [Linear Regression (Training)](machine-learning/linear-regression-training.md)
 
-#### 2. Build a Neural Net (4/5)
+#### 2. Build a Neural Net (5/5)
 - [x] [Single Neuron](machine-learning/single-neuron.md)
 - [x] [Backpropagation](machine-learning/backpropagation.md)
 - [x] [Multi-Layer Backpropagation](machine-learning/multi-layer-backpropagation.md)
 - [x] [MLP from Scratch](machine-learning/mlp-from-scratch.md)
-- [ ] Weight Initialization
+- [x] [Weight Initialization](machine-learning/weight-initialization.md)
 
 #### 3. PyTorch (0/4)
 - [ ] Pytorch Basics

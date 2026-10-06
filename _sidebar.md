@@ -87,6 +87,7 @@
   * [Backpropagation](machine-learning/backpropagation.md)
   * [Multi-Layer Backpropagation](machine-learning/multi-layer-backpropagation.md)
   * [MLP from Scratch](machine-learning/mlp-from-scratch.md)
+  * [Weight Initialization](machine-learning/weight-initialization.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)
