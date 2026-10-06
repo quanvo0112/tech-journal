@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **54 / 150 (36%)** | **54** | 16 | 31 | 7 |
+| **55 / 150 (37%)** | **55** | 16 | 32 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -58,6 +58,7 @@
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search | [Note](problems/0153-find-minimum-in-rotated-sorted-array.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | <span class="badge badge-medium">Medium</span> | Stack, Design | [Note](problems/0155-min-stack.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Binary Search | [Note](problems/0167-two-sum-ii-input-array-is-sorted.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0199-binary-tree-right-side-view.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <span class="badge badge-easy">Easy</span> | Linked List, Recursion | [Note](problems/0206-reverse-linked-list.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <span class="badge badge-easy">Easy</span> | Array, Hash Table, Sorting | [Note](problems/0217-contains-duplicate.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0226-invert-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -139,7 +140,7 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (8/15)
+#### 7. Trees (9/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -148,7 +149,7 @@
 - [x] [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
 - [x] [0235. Lowest Common Ancestor of a BST](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
 - [x] [0102. Binary Tree Level Order Traversal](problems/0102-binary-tree-level-order-traversal.md)
-- [ ] 0199\. Binary Tree Right Side View
+- [x] [0199. Binary Tree Right Side View](problems/0199-binary-tree-right-side-view.md)
 - [ ] 1448\. Count Good Nodes in Binary Tree
 - [ ] 0098\. Validate Binary Search Tree
 - [ ] 0230\. Kth Smallest Element in a BST
