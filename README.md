@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **57 / 150 (38%)** | **57** | 16 | 34 | 7 |
+| **58 / 150 (39%)** | **58** | 16 | 35 | 7 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -47,6 +47,7 @@
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0100-same-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <span class="badge badge-medium">Medium</span> | Tree, Breadth-First Search, Binary Tree | [Note](problems/0102-binary-tree-level-order-traversal.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0104-maximum-depth-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | [Note](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0110-balanced-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span class="badge badge-easy">Easy</span> | Array, Dynamic Programming | [Note](problems/0121-best-time-to-buy-and-sell-stock.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span class="badge badge-easy">Easy</span> | Two Pointers, String | [Note](problems/0125-valid-palindrome.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -142,7 +143,7 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (11/15)
+#### 7. Trees (12/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -155,7 +156,7 @@
 - [x] [1448. Count Good Nodes in Binary Tree](problems/1448-count-good-nodes-in-binary-tree.md)
 - [x] [0098. Validate Binary Search Tree](problems/0098-validate-binary-search-tree.md)
 - [ ] 0230\. Kth Smallest Element in a BST
-- [ ] 0105\. Construct Binary Tree from Preorder & Inorder
+- [x] [0105. Construct Binary Tree from Preorder and Inorder Traversal](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 - [ ] 0124\. Binary Tree Maximum Path Sum
 - [ ] 0297\. Serialize and Deserialize Binary Tree
 

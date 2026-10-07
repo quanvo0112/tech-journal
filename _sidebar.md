@@ -61,6 +61,7 @@
   * [0100. Same Tree](problems/0100-same-tree.md)
   * [0102. Binary Tree Level Order Traversal](problems/0102-binary-tree-level-order-traversal.md)
   * [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
+  * [0105. Construct Binary Tree from Preorder and Inorder Traversal](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [0110. Balanced Binary Tree](problems/0110-balanced-binary-tree.md)
   * [0199. Binary Tree Right Side View](problems/0199-binary-tree-right-side-view.md)
   * [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
