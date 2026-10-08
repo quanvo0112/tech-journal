@@ -66,6 +66,7 @@
   * [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
   * [0199. Binary Tree Right Side View](problems/0199-binary-tree-right-side-view.md)
   * [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
+  * [0230. Kth Smallest Element in a BST](problems/0230-kth-smallest-element-in-a-bst.md)
   * [0235. Lowest Common Ancestor of a Binary Search Tree](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
   * [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
   * [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -94,6 +95,7 @@
   * [PyTorch Basics](machine-learning/pytorch-basics.md)
   * [Layer Normalization](machine-learning/layer-normalization.md)
   * [Batch Normalization](machine-learning/batch-normalization.md)
+  * [RMS Normalization](machine-learning/rms-normalization.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)

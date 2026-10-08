@@ -10,13 +10,13 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **60 / 150 (40%)** | **60** | 16 | 35 | 9 |
+| **61 / 150 (41%)** | **61** | 16 | 36 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **14 / 36 (39%)** | **14** | 7 / 13 | 7 / 21 | 0 / 2 |
+| **15 / 36 (42%)** | **15** | 7 / 13 | 8 / 21 | 0 / 2 |
 
 ---
 
@@ -65,6 +65,7 @@
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <span class="badge badge-easy">Easy</span> | Linked List, Recursion | [Note](problems/0206-reverse-linked-list.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <span class="badge badge-easy">Easy</span> | Array, Hash Table, Sorting | [Note](problems/0217-contains-duplicate.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0226-invert-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0230-kth-smallest-element-in-a-bst.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0235-lowest-common-ancestor-of-a-binary-search-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <span class="badge badge-medium">Medium</span> | Array, Prefix Sum | [Note](problems/0238-product-of-array-except-self.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | <span class="badge badge-hard">Hard</span> | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | [Note](problems/0239-sliding-window-maximum.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -145,7 +146,7 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (14/15)
+#### 7. Trees (15/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -157,7 +158,7 @@
 - [x] [0199. Binary Tree Right Side View](problems/0199-binary-tree-right-side-view.md)
 - [x] [1448. Count Good Nodes in Binary Tree](problems/1448-count-good-nodes-in-binary-tree.md)
 - [x] [0098. Validate Binary Search Tree](problems/0098-validate-binary-search-tree.md)
-- [ ] 0230\. Kth Smallest Element in a BST
+- [x] [0230. Kth Smallest Element in a BST](problems/0230-kth-smallest-element-in-a-bst.md)
 - [x] [0105. Construct Binary Tree from Preorder and Inorder Traversal](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
@@ -294,11 +295,11 @@
 - [x] [MLP from Scratch](machine-learning/mlp-from-scratch.md)
 - [x] [Weight Initialization](machine-learning/weight-initialization.md)
 
-#### 3. PyTorch (3/4)
+#### 3. PyTorch (4/4)
 - [x] [Pytorch Basics](machine-learning/pytorch-basics.md)
 - [x] [Layer Normalization](machine-learning/layer-normalization.md)
 - [x] [Batch Normalization](machine-learning/batch-normalization.md)
-- [ ] RMS Normalization
+- [x] [RMS Normalization](machine-learning/rms-normalization.md)
 
 #### 4. Training (0/4)
 - [ ] Training Loop

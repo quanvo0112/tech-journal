@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **14 / 36 (39%)** | **14** | 7 / 13 | 7 / 21 | 0 / 2 |
+| **15 / 36 (42%)** | **15** | 7 / 13 | 8 / 21 | 0 / 2 |
 
 ---
 
@@ -30,6 +30,7 @@
 | 12 | PyTorch | [Pytorch Basics](https://neetcode.io/problems/pytorch-basics) | <span class="badge badge-easy">Easy</span> | PyTorch | [Note](pytorch-basics.md) | <span class="badge badge-solved">Solved</span> | - |
 | 13 | PyTorch | [Layer Normalization](https://neetcode.io/problems/layer-normalization) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](layer-normalization.md) | <span class="badge badge-solved">Solved</span> | - |
 | 14 | PyTorch | [Batch Normalization](https://neetcode.io/problems/batch-normalization) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](batch-normalization.md) | <span class="badge badge-solved">Solved</span> | - |
+| 15 | PyTorch | [RMS Normalization](https://neetcode.io/problems/rms-normalization) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](rms-normalization.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -50,11 +51,11 @@
 - [x] [MLP From Scratch](mlp-from-scratch.md)
 - [x] [Weight Initialization](weight-initialization.md)
 
-#### 3. PyTorch (3/4)
+#### 3. PyTorch (4/4)
 - [x] [Pytorch Basics](pytorch-basics.md)
 - [x] [Layer Normalization](layer-normalization.md)
 - [x] [Batch Normalization](batch-normalization.md)
-- [ ] RMS Normalization
+- [x] [RMS Normalization](rms-normalization.md)
 
 #### 4. Training (0/4)
 - [ ] Training Loop

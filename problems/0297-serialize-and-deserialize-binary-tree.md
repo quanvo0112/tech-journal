@@ -218,3 +218,4 @@ The reconstructed tree exactly mirrors the original tree.
 
 * **Next Review Date:** As needed / TBD
 * **Key Takeaway:** A standard preorder traversal uniquely encodes a binary tree once null pointers are serialized as explicit sentinels (`#`), allowing reconstruction via a single pass over a token stream.
+
