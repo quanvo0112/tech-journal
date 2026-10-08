@@ -96,6 +96,7 @@
   * [Layer Normalization](machine-learning/layer-normalization.md)
   * [Batch Normalization](machine-learning/batch-normalization.md)
   * [RMS Normalization](machine-learning/rms-normalization.md)
+  * [Training Loop](machine-learning/training-loop.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)

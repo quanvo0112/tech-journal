@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **15 / 36 (42%)** | **15** | 7 / 13 | 8 / 21 | 0 / 2 |
+| **16 / 36 (44%)** | **16** | 7 / 13 | 9 / 21 | 0 / 2 |
 
 ---
 
@@ -31,6 +31,7 @@
 | 13 | PyTorch | [Layer Normalization](https://neetcode.io/problems/layer-normalization) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](layer-normalization.md) | <span class="badge badge-solved">Solved</span> | - |
 | 14 | PyTorch | [Batch Normalization](https://neetcode.io/problems/batch-normalization) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](batch-normalization.md) | <span class="badge badge-solved">Solved</span> | - |
 | 15 | PyTorch | [RMS Normalization](https://neetcode.io/problems/rms-normalization) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](rms-normalization.md) | <span class="badge badge-solved">Solved</span> | - |
+| 16 | Training | [Training Loop](https://neetcode.io/problems/training-loop) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](training-loop.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -57,8 +58,8 @@
 - [x] [Batch Normalization](batch-normalization.md)
 - [x] [RMS Normalization](rms-normalization.md)
 
-#### 4. Training (0/4)
-- [ ] Training Loop
+#### 4. Training (1/4)
+- [x] [Training Loop](training-loop.md)
 - [ ] Training Diagnostics
 - [ ] Dead ReLU Detector
 - [ ] Digit Classifier

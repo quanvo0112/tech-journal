@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **15 / 36 (42%)** | **15** | 7 / 13 | 8 / 21 | 0 / 2 |
+| **16 / 36 (44%)** | **16** | 7 / 13 | 9 / 21 | 0 / 2 |
 
 ---
 
@@ -301,8 +301,8 @@
 - [x] [Batch Normalization](machine-learning/batch-normalization.md)
 - [x] [RMS Normalization](machine-learning/rms-normalization.md)
 
-#### 4. Training (0/4)
-- [ ] Training Loop
+#### 4. Training (1/4)
+- [x] [Training Loop](machine-learning/training-loop.md)
 - [ ] Training Diagnostics
 - [ ] Dead ReLU Detector
 - [ ] Digit Classifier
