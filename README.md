@@ -10,13 +10,13 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **58 / 150 (39%)** | **58** | 16 | 35 | 7 |
+| **60 / 150 (40%)** | **60** | 16 | 35 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **12 / 36 (33%)** | **12** | 7 / 13 | 5 / 21 | 0 / 2 |
+| **14 / 36 (39%)** | **14** | 7 / 13 | 7 / 21 | 0 / 2 |
 
 ---
 
@@ -50,6 +50,7 @@
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | [Note](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0110-balanced-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span class="badge badge-easy">Easy</span> | Array, Dynamic Programming | [Note](problems/0121-best-time-to-buy-and-sell-stock.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | <span class="badge badge-hard">Hard</span> | Dynamic Programming, Tree, Depth-First Search, Binary Tree | [Note](problems/0124-binary-tree-maximum-path-sum.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span class="badge badge-easy">Easy</span> | Two Pointers, String | [Note](problems/0125-valid-palindrome.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Union-Find | [Note](problems/0128-longest-consecutive-sequence.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span class="badge badge-medium">Medium</span> | Hash Table, Linked List | [Note](problems/0138-copy-list-with-random-pointer.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -70,6 +71,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <span class="badge badge-easy">Easy</span> | Hash Table, String, Sorting | [Note](problems/0242-valid-anagram.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0271 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | <span class="badge badge-medium">Medium</span> | Array, String, Design | [Note](problems/0271-encode-and-decode-strings.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Binary Search, Bit Manipulation | [Note](problems/0287-find-the-duplicate-number.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | <span class="badge badge-hard">Hard</span> | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | [Note](problems/0297-serialize-and-deserialize-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Note](problems/0347-top-k-frequent-elements.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Sliding Window | [Note](problems/0424-longest-repeating-character-replacement.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0543-diameter-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -143,7 +145,7 @@
 - [x] [0023. Merge k Sorted Lists](problems/0023-merge-k-sorted-lists.md)
 - [x] [0025. Reverse Nodes in k-Group](problems/0025-reverse-nodes-in-k-group.md)
 
-#### 7. Trees (12/15)
+#### 7. Trees (14/15)
 - [x] [0226. Invert Binary Tree](problems/0226-invert-binary-tree.md)
 - [x] [0104. Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree.md)
 - [x] [0543. Diameter of Binary Tree](problems/0543-diameter-of-binary-tree.md)
@@ -157,8 +159,8 @@
 - [x] [0098. Validate Binary Search Tree](problems/0098-validate-binary-search-tree.md)
 - [ ] 0230\. Kth Smallest Element in a BST
 - [x] [0105. Construct Binary Tree from Preorder and Inorder Traversal](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
-- [ ] 0124\. Binary Tree Maximum Path Sum
-- [ ] 0297\. Serialize and Deserialize Binary Tree
+- [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
+- [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
 #### 8. Heap / Priority Queue (0/7)
 - [ ] 0703\. Kth Largest Element in a Stream
@@ -292,10 +294,10 @@
 - [x] [MLP from Scratch](machine-learning/mlp-from-scratch.md)
 - [x] [Weight Initialization](machine-learning/weight-initialization.md)
 
-#### 3. PyTorch (1/4)
+#### 3. PyTorch (3/4)
 - [x] [Pytorch Basics](machine-learning/pytorch-basics.md)
-- [ ] Layer Normalization
-- [ ] Batch Normalization
+- [x] [Layer Normalization](machine-learning/layer-normalization.md)
+- [x] [Batch Normalization](machine-learning/batch-normalization.md)
 - [ ] RMS Normalization
 
 #### 4. Training (0/4)
