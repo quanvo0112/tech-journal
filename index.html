@@ -852,7 +852,9 @@
         '/tech-journal/(.*)': '/$1',
         '/tech-journal/?$': '/',
         '/leetcode-journal/(.*)': '/$1',
-        '/leetcode-journal/?$': '/'
+        '/leetcode-journal/?$': '/',
+        '/(gradient-descent|sigmoid-and-relu|softmax|cross-entropy-loss|linear-regression-forward|linear-regression-training|single-neuron|backpropagation|multi-layer-backpropagation|mlp-from-scratch|weight-initialization|pytorch-basics|layer-normalization|batch-normalization|rms-normalization|training-loop)(.*)': '/machine-learning/$1$2',
+        '/(\\d{4}-[a-z0-9-]+)(.*)': '/problems/$1$2'
       },
       plugins: [
         function (hook, vm) {

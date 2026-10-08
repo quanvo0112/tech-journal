@@ -64,9 +64,10 @@
       };
 
       var rawPath = l.pathname;
-      var matchNumber = rawPath.match(/\/leetcode-journal\/(\d{1,4})\/?$/);
+      var matchNumber = rawPath.match(/\/(?:tech-journal|leetcode-journal)\/(\d{1,4})\/?$/);
       if (matchNumber && shortcuts[matchNumber[1]]) {
-        rawPath = '/leetcode-journal/problems/' + shortcuts[matchNumber[1]];
+        var basePrefix = rawPath.match(/^\/(?:tech-journal|leetcode-journal)/)[0];
+        rawPath = basePrefix + '/problems/' + shortcuts[matchNumber[1]];
       }
 
       var redirectPath = rawPath.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~');
