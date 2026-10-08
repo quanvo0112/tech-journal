@@ -79,13 +79,8 @@ $$b \leftarrow b - \eta \frac{\partial \mathcal{L}}{\partial b}$$
 ## 3. Vectorized Implementation & Numerical Stability
 
 1. **Why Pure Vectorization over Explicit Feature Loops:**
-   - Instead of iterating through each feature dimension $j \in [0, M-1]$:
-     ```python
-     # Inefficient O(M) Python loop
-     for j in range(n_features):
-         dw[j] = (2 / n_samples) * np.sum(error * X[:, j])
-```
-   - The matrix-vector dot product `X.T @ error` computes all $M$ gradient components in a single fused BLAS level-2 kernel, executing up to $50\times$ faster on modern CPUs.
+   - Iterating sequentially through each feature dimension $j \in [0, M-1]$ with an explicit Python loop (`for j in range(n_features): dw[j] = (2 / n_samples) * np.sum(error * X[:, j])`) incurs heavy Python interpreter overhead and fails to utilize SIMD hardware registers.
+   - Using the vectorized matrix-vector product `X.T @ error` computes all $M$ gradient components simultaneously in a single fused BLAS level-2 kernel (`DGEMV`), executing up to $50\times$ faster on modern CPUs.
 2. **Synchronous Parameter Updates:**
    - Crucial algorithmic invariant: Both $dw$ and $db$ must be completely evaluated using the current epoch's state **before** modifying $w$ or $b$. Updating $w$ in-place while computing $db$ would corrupt the bias gradient.
 
