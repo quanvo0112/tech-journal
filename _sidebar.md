@@ -73,6 +73,9 @@
   * [0572. Subtree of Another Tree](problems/0572-subtree-of-another-tree.md)
   * [1448. Count Good Nodes in Binary Tree](problems/1448-count-good-nodes-in-binary-tree.md)
 
+* **Heap / Priority Queue**
+  * [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
+
 * **Backtracking**
   * [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
 

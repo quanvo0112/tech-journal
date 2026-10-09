@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **61 / 150 (41%)** | **61** | 16 | 36 | 9 |
+| **62 / 150 (41%)** | **62** | 17 | 36 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -79,6 +79,7 @@
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <span class="badge badge-medium">Medium</span> | Hash Table, Two Pointers, String, Sliding Window | [Note](problems/0567-permutation-in-string.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | [Note](problems/0572-subtree-of-another-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | <span class="badge badge-medium">Medium</span> | String, Dynamic Programming, Stack, Greedy | [Note](problems/0678-valid-parenthesis-string.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | <span class="badge badge-easy">Easy</span> | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | [Note](problems/0703-kth-largest-element-in-a-stream.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <span class="badge badge-easy">Easy</span> | Array, Binary Search | [Note](problems/0704-binary-search.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Monotonic Stack | [Note](problems/0739-daily-temperatures.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Sorting, Monotonic Stack | [Note](problems/0853-car-fleet.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -163,8 +164,8 @@
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
-#### 8. Heap / Priority Queue (0/7)
-- [ ] 0703\. Kth Largest Element in a Stream
+#### 8. Heap / Priority Queue (1/7)
+- [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [ ] 1046\. Last Stone Weight
 - [ ] 0973\. K Closest Points to Origin
 - [ ] 0215\. Kth Largest Element in an Array
