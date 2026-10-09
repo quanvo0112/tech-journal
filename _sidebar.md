@@ -75,6 +75,7 @@
 
 * **Heap / Priority Queue**
   * [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
+  * [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
 
 * **Backtracking**
   * [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
