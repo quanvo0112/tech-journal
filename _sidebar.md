@@ -101,6 +101,7 @@
   * [Batch Normalization](machine-learning/batch-normalization.md)
   * [RMS Normalization](machine-learning/rms-normalization.md)
   * [Training Loop](machine-learning/training-loop.md)
+  * [Training Diagnostics](machine-learning/training-diagnostics.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)

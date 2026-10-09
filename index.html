@@ -853,7 +853,7 @@
         '/tech-journal/?$': '/',
         '/leetcode-journal/(.*)': '/$1',
         '/leetcode-journal/?$': '/',
-        '/(gradient-descent|sigmoid-and-relu|softmax|cross-entropy-loss|linear-regression-forward|linear-regression-training|single-neuron|backpropagation|multi-layer-backpropagation|mlp-from-scratch|weight-initialization|pytorch-basics|layer-normalization|batch-normalization|rms-normalization|training-loop)(.*)': '/machine-learning/$1$2',
+        '/(gradient-descent|sigmoid-and-relu|softmax|cross-entropy-loss|linear-regression-forward|linear-regression-training|single-neuron|backpropagation|multi-layer-backpropagation|mlp-from-scratch|weight-initialization|pytorch-basics|layer-normalization|batch-normalization|rms-normalization|training-loop|training-diagnostics)(.*)': '/machine-learning/$1$2',
         '/(\\d{4}-[a-z0-9-]+)(.*)': '/problems/$1$2'
       },
       plugins: [
@@ -964,6 +964,7 @@
           '/machine-learning/batch-normalization',
           '/machine-learning/rms-normalization',
           '/machine-learning/training-loop',
+          '/machine-learning/training-diagnostics',
           '/templates/problem-template',
           '/templates/ml-problem-template'
         ],
