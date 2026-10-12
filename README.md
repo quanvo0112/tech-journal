@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **63 / 150 (42%)** | **63** | 18 | 36 | 9 |
+| **64 / 150 (43%)** | **64** | 19 | 36 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -84,6 +84,7 @@
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Monotonic Stack | [Note](problems/0739-daily-temperatures.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | <span class="badge badge-medium">Medium</span> | Array, Stack, Sorting, Monotonic Stack | [Note](problems/0853-car-fleet.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search | [Note](problems/0875-koko-eating-bananas.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | <span class="badge badge-easy">Easy</span> | 2D Geometry, Heaps | [Note](problems/0973-k-closest-points-to-origin.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Binary Search, Design | [Note](problems/0981-time-based-key-value-store.md) | <span class="badge badge-solved">Solved</span> | - |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | <span class="badge badge-easy">Easy</span> | Array, Heap (Priority Queue) | [Note](problems/1046-last-stone-weight.md) | <span class="badge badge-solved">Solved</span> | - |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/1448-count-good-nodes-in-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -165,10 +166,10 @@
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
-#### 8. Heap / Priority Queue (2/7)
+#### 8. Heap / Priority Queue (3/7)
 - [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [x] [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
-- [ ] 0973\. K Closest Points to Origin
+- [x] 0973\. K Closest Points to Origin
 - [ ] 0215\. Kth Largest Element in an Array
 - [ ] 0621\. Task Scheduler
 - [ ] 0355\. Design Twitter
