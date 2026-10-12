@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **19 / 36 (53%)** | **19** | 7 / 13 | 12 / 21 | 0 / 2 |
+| **20 / 36 (56%)** | **20** | 8 / 13 | 12 / 21 | 0 / 2 |
 
 ---
 
@@ -35,6 +35,7 @@
 | 17 | Training | [Training Diagnostics](https://neetcode.io/problems/training-diagnostics) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/training-diagnostics.md) | <span class="badge badge-solved">Solved</span> | - |
 | 18 | Training | [Dead ReLU Detector](https://neetcode.io/problems/dead-relu-detector) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/dead-relu-detector.md) | <span class="badge badge-solved">Solved</span> | - |
 | 19 | Training | [Digit Classifier](https://neetcode.io/problems/digit-classifier) | <span class="badge badge-easy">Easy</span> | PyTorch | [Note](machine-learning/digit-classifier.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
+| 20 | NLP | [Word Embeddings](https://neetcode.io/problems/word-embeddings) | <span class="badge badge-easy">Easy</span> | NumPy | [Note](machine-learning/word-embeddings.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
 
 ---
 
@@ -67,8 +68,8 @@
 - [x] [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
 - [x] [Digit Classifier](machine-learning/digit-classifier.md)
 
-#### 5. NLP (0/4)
-- [ ] Word Embeddings
+#### 5. NLP (1/4)
+- [x] [Word Embeddings](machine-learning/word-embeddings.md)
 - [ ] Intro to Natural Language Processing
 - [ ] Sentiment Analysis
 - [ ] Positional Encoding

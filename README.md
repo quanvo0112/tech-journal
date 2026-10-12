@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **19 / 36 (53%)** | **19** | 7 / 13 | 12 / 21 | 0 / 2 |
+| **20 / 36 (56%)** | **20** | 8 / 13 | 12 / 21 | 0 / 2 |
 
 ---
 
@@ -304,14 +304,14 @@
 - [x] [Batch Normalization](machine-learning/batch-normalization.md)
 - [x] [RMS Normalization](machine-learning/rms-normalization.md)
 
-#### 4. Training (3/4)
+#### 4. Training (4/4)
 - [x] [Training Loop](machine-learning/training-loop.md)
 - [x] [Training Diagnostics](machine-learning/training-diagnostics.md)
 - [x] [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
-- [ ] Digit Classifier
+- [x] [Digit Classifier](machine-learning/digit-classifier.md)
 
-#### 5. NLP (0/4)
-- [ ] Word Embeddings
+#### 5. NLP (1/4)
+- [x] [Word Embeddings](machine-learning/word-embeddings.md)
 - [ ] Intro to Natural Language Processing
 - [ ] Sentiment Analysis
 - [ ] Positional Encoding
