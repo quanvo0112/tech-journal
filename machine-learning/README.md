@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **18 / 36 (50%)** | **18** | 7 / 13 | 11 / 21 | 0 / 2 |
+| **19 / 36 (53%)** | **19** | 7 / 13 | 12 / 21 | 0 / 2 |
 
 ---
 
@@ -34,6 +34,7 @@
 | 16 | Training | [Training Loop](https://neetcode.io/problems/training-loop) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](machine-learning/training-loop.md) | <span class="badge badge-solved">Solved</span> | - |
 | 17 | Training | [Training Diagnostics](https://neetcode.io/problems/training-diagnostics) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/training-diagnostics.md) | <span class="badge badge-solved">Solved</span> | - |
 | 18 | Training | [Dead ReLU Detector](https://neetcode.io/problems/dead-relu-detector) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/dead-relu-detector.md) | <span class="badge badge-solved">Solved</span> | - |
+| 19 | Training | [Digit Classifier](https://neetcode.io/problems/digit-classifier) | <span class="badge badge-easy">Easy</span> | PyTorch | [Note](machine-learning/digit-classifier.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
 
 ---
 
@@ -60,11 +61,11 @@
 - [x] [Batch Normalization](machine-learning/batch-normalization.md)
 - [x] [RMS Normalization](machine-learning/rms-normalization.md)
 
-#### 4. Training (3/4)
+#### 4. Training (4/4)
 - [x] [Training Loop](machine-learning/training-loop.md)
 - [x] [Training Diagnostics](machine-learning/training-diagnostics.md)
 - [x] [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
-- [ ] Digit Classifier
+- [x] [Digit Classifier](machine-learning/digit-classifier.md)
 
 #### 5. NLP (0/4)
 - [ ] Word Embeddings
