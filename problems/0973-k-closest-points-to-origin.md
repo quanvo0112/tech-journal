@@ -95,5 +95,5 @@ public:
 
 ## 6. Review & Takeaways
 
-* Next Review Date: 2026-10-19
+* Next Review Date: 
 * Key Takeaway: Using a max-heap of size k is an efficient way to find the k closest elements without sorting the entire array. The trick is to compare squared distances to avoid expensive square root calculations.

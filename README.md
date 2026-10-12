@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **64 / 150 (43%)** | **64** | 19 | 36 | 9 |
+| **65 / 150 (43%)** | **65** | 19 | 37 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -166,11 +166,11 @@
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
-#### 8. Heap / Priority Queue (3/7)
+#### 8. Heap / Priority Queue (4/7)
 - [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [x] [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
 - [x] 0973\. K Closest Points to Origin
-- [ ] 0215\. Kth Largest Element in an Array
+- [x] 0215\. Kth Largest Element in an Array
 - [ ] 0621\. Task Scheduler
 - [ ] 0355\. Design Twitter
 - [ ] 0295\. Find Median from Data Stream
