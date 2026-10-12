@@ -63,6 +63,7 @@
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Binary Search | [Note](problems/0167-two-sum-ii-input-array-is-sorted.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0199-binary-tree-right-side-view.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <span class="badge badge-easy">Easy</span> | Linked List, Recursion | [Note](problems/0206-reverse-linked-list.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <span class="badge badge-medium">Medium</span> | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | [Note](problems/0215-kth-largest-element-in-an-array.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <span class="badge badge-easy">Easy</span> | Array, Hash Table, Sorting | [Note](problems/0217-contains-duplicate.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0226-invert-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0230-kth-smallest-element-in-a-bst.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -169,8 +170,8 @@
 #### 8. Heap / Priority Queue (4/7)
 - [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [x] [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
-- [x] 0973\. K Closest Points to Origin
-- [x] 0215\. Kth Largest Element in an Array
+- [x] [0973. K Closest Points to Origin](problems/0973-k-closest-points-to-origin.md)
+- [x] [0215. Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array.md)
 - [ ] 0621\. Task Scheduler
 - [ ] 0355\. Design Twitter
 - [ ] 0295\. Find Median from Data Stream
