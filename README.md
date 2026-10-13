@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **65 / 150 (43%)** | **65** | 19 | 37 | 9 |
+| **66 / 150 (44%)** | **66** | 19 | 38 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -79,6 +79,7 @@
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0543-diameter-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <span class="badge badge-medium">Medium</span> | Hash Table, Two Pointers, String, Sliding Window | [Note](problems/0567-permutation-in-string.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function | [Note](problems/0572-subtree-of-another-tree.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | [Note](problems/0621-task-scheduler.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | <span class="badge badge-medium">Medium</span> | String, Dynamic Programming, Stack, Greedy | [Note](problems/0678-valid-parenthesis-string.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | <span class="badge badge-easy">Easy</span> | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | [Note](problems/0703-kth-largest-element-in-a-stream.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <span class="badge badge-easy">Easy</span> | Array, Binary Search | [Note](problems/0704-binary-search.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -167,12 +168,12 @@
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
-#### 8. Heap / Priority Queue (4/7)
+#### 8. Heap / Priority Queue (5/7)
 - [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [x] [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
 - [x] [0973. K Closest Points to Origin](problems/0973-k-closest-points-to-origin.md)
 - [x] [0215. Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array.md)
-- [ ] 0621\. Task Scheduler
+- [x] [0621. Task Scheduler](problems/0621-task-scheduler.md)
 - [ ] 0355\. Design Twitter
 - [ ] 0295\. Find Median from Data Stream
 
