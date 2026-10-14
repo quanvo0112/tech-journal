@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **66 / 150 (44%)** | **66** | 19 | 38 | 9 |
+| **67 / 150 (45%)** | **67** | 19 | 39 | 9 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -75,6 +75,7 @@
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Binary Search, Bit Manipulation | [Note](problems/0287-find-the-duplicate-number.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | <span class="badge badge-hard">Hard</span> | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | [Note](problems/0297-serialize-and-deserialize-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Note](problems/0347-top-k-frequent-elements.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | <span class="badge badge-medium">Medium</span> | Hash Table, Linked List, Design, Heap (Priority Queue) | [Note](problems/0355-design-twitter.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Sliding Window | [Note](problems/0424-longest-repeating-character-replacement.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Binary Tree | [Note](problems/0543-diameter-of-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <span class="badge badge-medium">Medium</span> | Hash Table, Two Pointers, String, Sliding Window | [Note](problems/0567-permutation-in-string.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -168,13 +169,13 @@
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
-#### 8. Heap / Priority Queue (5/7)
+#### 8. Heap / Priority Queue (6/7)
 - [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [x] [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
 - [x] [0973. K Closest Points to Origin](problems/0973-k-closest-points-to-origin.md)
 - [x] [0215. Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array.md)
 - [x] [0621. Task Scheduler](problems/0621-task-scheduler.md)
-- [ ] 0355\. Design Twitter
+- [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [ ] 0295\. Find Median from Data Stream
 
 #### 9. Backtracking (1/10)
