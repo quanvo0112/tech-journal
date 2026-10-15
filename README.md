@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **67 / 150 (45%)** | **67** | 19 | 39 | 9 |
+| **68 / 150 (45%)** | **68** | 19 | 39 | 10 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -73,6 +73,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <span class="badge badge-easy">Easy</span> | Hash Table, String, Sorting | [Note](problems/0242-valid-anagram.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0271 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | <span class="badge badge-medium">Medium</span> | Array, String, Design | [Note](problems/0271-encode-and-decode-strings.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Binary Search, Bit Manipulation | [Note](problems/0287-find-the-duplicate-number.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | <span class="badge badge-hard">Hard</span> | Sorting, Heap (Priority Queue), Design, Data Stream | [Note](problems/0295-find-median-from-data-stream.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | <span class="badge badge-hard">Hard</span> | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | [Note](problems/0297-serialize-and-deserialize-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Note](problems/0347-top-k-frequent-elements.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | <span class="badge badge-medium">Medium</span> | Hash Table, Linked List, Design, Heap (Priority Queue) | [Note](problems/0355-design-twitter.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -169,14 +170,14 @@
 - [x] [0124. Binary Tree Maximum Path Sum](problems/0124-binary-tree-maximum-path-sum.md)
 - [x] [0297. Serialize and Deserialize Binary Tree](problems/0297-serialize-and-deserialize-binary-tree.md)
 
-#### 8. Heap / Priority Queue (6/7)
+#### 8. Heap / Priority Queue (7/7)
 - [x] [0703. Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream.md)
 - [x] [1046. Last Stone Weight](problems/1046-last-stone-weight.md)
 - [x] [0973. K Closest Points to Origin](problems/0973-k-closest-points-to-origin.md)
 - [x] [0215. Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array.md)
 - [x] [0621. Task Scheduler](problems/0621-task-scheduler.md)
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
-- [ ] 0295\. Find Median from Data Stream
+- [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
 #### 9. Backtracking (1/10)
 - [ ] 0078\. Subsets
