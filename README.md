@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **20 / 36 (56%)** | **20** | 8 / 13 | 12 / 21 | 0 / 2 |
+| **21 / 36 (58%)** | **21** | 8 / 13 | 13 / 21 | 0 / 2 |
 
 ---
 
@@ -316,9 +316,9 @@
 - [x] [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
 - [x] [Digit Classifier](machine-learning/digit-classifier.md)
 
-#### 5. NLP (1/4)
+#### 5. NLP (2/4)
 - [x] [Word Embeddings](machine-learning/word-embeddings.md)
-- [ ] Intro to Natural Language Processing
+- [x] [Intro to Natural Language Processing](machine-learning/intro-to-natural-language-processing.md)
 - [ ] Sentiment Analysis
 - [ ] Positional Encoding
 
