@@ -830,6 +830,48 @@
       }
     } catch (e) {}
 
+    // Cache-busting shim for Docsify's markdown / sidebar / navbar requests.
+    // GitHub Pages serves every file with `Cache-Control: max-age=600` and runs
+    // behind a multi-node edge CDN, so a soft reload can land on a node still
+    // holding the previous copy. Docsify's `cache-control: no-cache` request
+    // header is ignored by the edge, so we append a per-load query instead,
+    // which forces both the browser and the edge cache to miss.
+    (function () {
+      var token = '_ds=' + Date.now();
+
+      var isCacheableMarkdown = function (url) {
+        return (
+          typeof url === 'string' &&
+          url.indexOf('://') === -1 &&
+          url.indexOf('_ds=') === -1 &&
+          /\.md(\?|#|$)/i.test(url)
+        );
+      };
+
+      var bust = function (url) {
+        if (!isCacheableMarkdown(url)) return url;
+        return url + (url.indexOf('?') === -1 ? '?' : '&') + token;
+      };
+
+      var nativeOpen = XMLHttpRequest.prototype.open;
+      XMLHttpRequest.prototype.open = function (method, url) {
+        if (arguments.length > 1) arguments[1] = bust(url);
+        return nativeOpen.apply(this, arguments);
+      };
+
+      if (window.fetch) {
+        var nativeFetch = window.fetch.bind(window);
+        window.fetch = function (input, init) {
+          if (typeof input === 'string') {
+            input = bust(input);
+          } else if (input && input.url && isCacheableMarkdown(input.url)) {
+            input = new Request(bust(input.url), input);
+          }
+          return nativeFetch(input, init);
+        };
+      }
+    })();
+
     var pathname = window.location.pathname;
     var isGhPagesTech = pathname.indexOf('/tech-journal') === 0;
     var isGhPagesLeet = pathname.indexOf('/leetcode-journal') === 0;
