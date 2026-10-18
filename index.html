@@ -1041,6 +1041,15 @@
         document.body.classList.remove('close');
       }
     });
+
+    // Register the service worker that defeats the GitHub Pages edge cache.
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker
+          .register(repoBase + 'sw.js', { scope: repoBase })
+          .catch(function () {});
+      });
+    }
   </script>
   <!-- Docsify v4 Core -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
