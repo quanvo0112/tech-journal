@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **70 / 150 (47%)** | **70** | 19 | 41 | 10 |
+| **71 / 150 (47%)** | **71** | 19 | 41 | 11 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -65,6 +65,7 @@
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <span class="badge badge-easy">Easy</span> | Linked List, Recursion | [Note](problems/0206-reverse-linked-list.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | <span class="badge badge-medium">Medium</span> | String, Design, Trie | [Note](problems/0208-implement-trie-prefix-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | <span class="badge badge-medium">Medium</span> | String, Depth-First Search, Design, Trie | [Note](problems/0211-design-add-and-search-words-data-structure.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | <span class="badge badge-hard">Hard</span> | Array, String, Backtracking, Trie, Matrix | [Note](problems/0212-word-search-ii.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <span class="badge badge-medium">Medium</span> | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | [Note](problems/0215-kth-largest-element-in-an-array.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <span class="badge badge-easy">Easy</span> | Array, Hash Table, Sorting | [Note](problems/0217-contains-duplicate.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0226-invert-binary-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -193,10 +194,10 @@
 - [ ] 0017\. Letter Combinations of a Phone Number
 - [ ] 0051\. N-Queens
 
-#### 10. Tries (2/3)
+#### 10. Tries (3/3)
 - [x] [0208. Implement Trie (Prefix Tree)](problems/0208-implement-trie-prefix-tree.md)
 - [x] [0211. Design Add and Search Words Data Structure](problems/0211-design-add-and-search-words-data-structure.md)
-- [ ] 0212\. Word Search II
+- [x] [0212. Word Search II](problems/0212-word-search-ii.md)
 
 #### 11. Graphs (0/13)
 - [ ] 0200\. Number of Islands
