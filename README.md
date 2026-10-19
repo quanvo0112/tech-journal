@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **71 / 150 (47%)** | **71** | 19 | 41 | 11 |
+| **72 / 150 (48%)** | **72** | 19 | 42 | 11 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -42,6 +42,7 @@
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, String, Sorting | [Note](problems/0049-group-anagrams.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search, Matrix | [Note](problems/0074-search-a-2d-matrix.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span class="badge badge-hard">Hard</span> | Hash Table, String, Sliding Window | [Note](problems/0076-minimum-window-substring.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0078 | [Subsets](https://leetcode.com/problems/subsets/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking, Bit Manipulation | [Note](problems/0078-subsets.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span class="badge badge-hard">Hard</span> | Array, Stack, Monotonic Stack | [Note](problems/0084-largest-rectangle-in-histogram.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0098-validate-binary-search-tree.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <span class="badge badge-easy">Easy</span> | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Note](problems/0100-same-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -182,8 +183,8 @@
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
-#### 9. Backtracking (1/10)
-- [ ] 0078\. Subsets
+#### 9. Backtracking (2/10)
+- [x] [0078. Subsets](problems/0078-subsets.md)
 - [ ] 0039\. Combination Sum
 - [ ] 0040\. Combination Sum II
 - [ ] 0046\. Permutations
