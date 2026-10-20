@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **73 / 150 (49%)** | **73** | 19 | 43 | 11 |
+| **74 / 150 (49%)** | **74** | 19 | 44 | 11 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -39,6 +39,7 @@
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search | [Note](problems/0033-search-in-rotated-sorted-array.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Matrix | [Note](problems/0036-valid-sudoku.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking | [Note](problems/0039-combination-sum.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking | [Note](problems/0040-combination-sum-ii.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <span class="badge badge-hard">Hard</span> | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [Note](problems/0042-trapping-rain-water.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, String, Sorting | [Note](problems/0049-group-anagrams.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search, Matrix | [Note](problems/0074-search-a-2d-matrix.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -184,10 +185,10 @@
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
-#### 9. Backtracking (3/10)
+#### 9. Backtracking (4/10)
 - [x] [0078. Subsets](problems/0078-subsets.md)
 - [x] [0039. Combination Sum](problems/0039-combination-sum.md)
-- [ ] 0040\. Combination Sum II
+- [x] [0040. Combination Sum II](problems/0040-combination-sum-ii.md)
 - [ ] 0046\. Permutations
 - [ ] 0090\. Subsets II
 - [x] [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
