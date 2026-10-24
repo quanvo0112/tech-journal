@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **25 / 36 (69%)** | **25** | 8 / 13 | 17 / 21 | 0 / 2 |
+| **26 / 36 (72%)** | **26** | 8 / 13 | 18 / 21 | 0 / 2 |
 
 ---
 
@@ -41,6 +41,7 @@
 | 23 | NLP | [Positional Encoding](https://neetcode.io/problems/positional-encoding) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](machine-learning/positional-encoding.md) | <span class="badge badge-solved">Solved</span> | - |
 | 24 | Attention & Transformers | [Self Attention](https://neetcode.io/problems/self-attention) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/self-attention.md) | <span class="badge badge-solved">Solved</span> | - |
 | 25 | Attention & Transformers | [Multi-Headed Self Attention](https://neetcode.io/problems/multi-headed-self-attention) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/multi-headed-self-attention.md) | <span class="badge badge-solved">Solved</span> | - |
+| 26 | Attention & Transformers | [Transformer Block](https://neetcode.io/problems/transformer-block) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/transformer-block.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -79,10 +80,10 @@
 - [x] [Sentiment Analysis](machine-learning/sentiment-analysis.md)
 - [x] [Positional Encoding](machine-learning/positional-encoding.md)
 
-#### 6. Attention & Transformers (2/3)
+#### 6. Attention & Transformers (3/3)
 - [x] [Self Attention](machine-learning/self-attention.md)
 - [x] [Multi Headed Self Attention](machine-learning/multi-headed-self-attention.md)
-- [ ] Transformer Block
+- [x] [Transformer Block](machine-learning/transformer-block.md)
 
 #### 7. Build GPT (0/10)
 - [ ] Tokenizer (Byte Pair Encoding)

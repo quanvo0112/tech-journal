@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **25 / 36 (69%)** | **25** | 8 / 13 | 17 / 21 | 0 / 2 |
+| **26 / 36 (72%)** | **26** | 8 / 13 | 18 / 21 | 0 / 2 |
 
 ---
 
@@ -329,10 +329,10 @@
 - [x] [Sentiment Analysis](machine-learning/sentiment-analysis.md)
 - [x] [Positional Encoding](machine-learning/positional-encoding.md)
 
-#### 6. Attention & Transformers (2/3)
+#### 6. Attention & Transformers (3/3)
 - [x] [Self Attention](machine-learning/self-attention.md)
 - [x] [Multi Headed Self Attention](machine-learning/multi-headed-self-attention.md)
-- [ ] Transformer Block
+- [x] [Transformer Block](machine-learning/transformer-block.md)
 
 #### 7. Build GPT (0/10)
 - [ ] Tokenizer (Byte Pair Encoding)
