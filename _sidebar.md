@@ -106,6 +106,7 @@
   * [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
   * [Positional Encoding](machine-learning/positional-encoding.md)
   * [Self Attention](machine-learning/self-attention.md)
+  * [Multi-Headed Self Attention](machine-learning/multi-headed-self-attention.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)
