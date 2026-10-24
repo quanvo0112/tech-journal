@@ -8,7 +8,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **22 / 36 (61%)** | **22** | 8 / 13 | 14 / 21 | 0 / 2 |
+| **23 / 36 (64%)** | **23** | 8 / 13 | 15 / 21 | 0 / 2 |
 
 ---
 
@@ -38,6 +38,7 @@
 | 20 | NLP | [Word Embeddings](https://neetcode.io/problems/word-embeddings) | <span class="badge badge-easy">Easy</span> | NumPy | [Note](machine-learning/word-embeddings.md) | <span class="badge badge-solved">Solved</span> | 2026-10-12 |
 | 21 | NLP | [Intro to Natural Language Processing](https://neetcode.io/problems/nlp-intro) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/intro-to-natural-language-processing.md) | <span class="badge badge-solved">Solved</span> | - |
 | 22 | NLP | [Sentiment Analysis](https://neetcode.io/problems/sentiment-analysis) | <span class="badge badge-medium">Medium</span> | PyTorch | [Note](machine-learning/sentiment-analysis.md) | <span class="badge badge-solved">Solved</span> | - |
+| 23 | NLP | [Positional Encoding](https://neetcode.io/problems/positional-encoding) | <span class="badge badge-medium">Medium</span> | NumPy | [Note](machine-learning/positional-encoding.md) | <span class="badge badge-solved">Solved</span> | - |
 
 ---
 
@@ -70,11 +71,11 @@
 - [x] [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
 - [x] [Digit Classifier](machine-learning/digit-classifier.md)
 
-#### 5. NLP (3/4)
+#### 5. NLP (4/4)
 - [x] [Word Embeddings](machine-learning/word-embeddings.md)
 - [x] [Intro to Natural Language Processing](machine-learning/intro-to-natural-language-processing.md)
 - [x] [Sentiment Analysis](machine-learning/sentiment-analysis.md)
-- [ ] Positional Encoding
+- [x] [Positional Encoding](machine-learning/positional-encoding.md)
 
 #### 6. Attention & Transformers (0/3)
 - [ ] Self Attention

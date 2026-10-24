@@ -104,6 +104,7 @@
   * [Training Loop](machine-learning/training-loop.md)
   * [Training Diagnostics](machine-learning/training-diagnostics.md)
   * [Dead ReLU Detector](machine-learning/dead-relu-detector.md)
+  * [Positional Encoding](machine-learning/positional-encoding.md)
 
 * **Templates & Guides**
   * [DSA Problem Template](templates/problem-template.md)
