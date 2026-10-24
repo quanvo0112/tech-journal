@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **76 / 150 (51%)** | **76** | 19 | 46 | 11 |
+| **77 / 150 (51%)** | **77** | 19 | 47 | 11 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -46,6 +46,7 @@
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search, Matrix | [Note](problems/0074-search-a-2d-matrix.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span class="badge badge-hard">Hard</span> | Hash Table, String, Sliding Window | [Note](problems/0076-minimum-window-substring.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking, Bit Manipulation | [Note](problems/0078-subsets.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0079 | [Word Search](https://leetcode.com/problems/word-search/) | <span class="badge badge-medium">Medium</span> | Array, String, Backtracking, Matrix | [Note](problems/0079-word-search.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span class="badge badge-hard">Hard</span> | Array, Stack, Monotonic Stack | [Note](problems/0084-largest-rectangle-in-histogram.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking, Bit Manipulation | [Note](problems/0090-subsets-ii.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <span class="badge badge-medium">Medium</span> | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [Note](problems/0098-validate-binary-search-tree.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -187,14 +188,14 @@
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
-#### 9. Backtracking (6/10)
+#### 9. Backtracking (7/10)
 - [x] [0078. Subsets](problems/0078-subsets.md)
 - [x] [0039. Combination Sum](problems/0039-combination-sum.md)
 - [x] [0040. Combination Sum II](problems/0040-combination-sum-ii.md)
 - [x] [0046. Permutations](problems/0046-permutations.md)
 - [x] [0090. Subsets II](problems/0090-subsets-ii.md)
 - [x] [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
-- [ ] 0079\. Word Search
+- [x] [0079. Word Search](problems/0079-word-search.md)
 - [ ] 0131\. Palindrome Partitioning
 - [ ] 0017\. Letter Combinations of a Phone Number
 - [ ] 0051\. N-Queens
