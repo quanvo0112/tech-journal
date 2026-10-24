@@ -16,7 +16,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **23 / 36 (64%)** | **23** | 8 / 13 | 15 / 21 | 0 / 2 |
+| **24 / 36 (67%)** | **24** | 8 / 13 | 16 / 21 | 0 / 2 |
 
 ---
 
@@ -329,8 +329,8 @@
 - [x] [Sentiment Analysis](machine-learning/sentiment-analysis.md)
 - [x] [Positional Encoding](machine-learning/positional-encoding.md)
 
-#### 6. Attention & Transformers (0/3)
-- [ ] Self Attention
+#### 6. Attention & Transformers (1/3)
+- [x] [Self Attention](machine-learning/self-attention.md)
 - [ ] Multi Headed Self Attention
 - [ ] Transformer Block
 
