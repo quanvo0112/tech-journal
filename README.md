@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **78 / 150 (52%)** | **78** | 19 | 48 | 11 |
+| **79 / 150 (53%)** | **79** | 19 | 49 | 11 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -30,6 +30,7 @@
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | <span class="badge badge-hard">Hard</span> | Array, Binary Search, Divide and Conquer | [Note](problems/0004-median-of-two-sorted-arrays.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Greedy | [Note](problems/0011-container-with-most-water.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | <span class="badge badge-medium">Medium</span> | Array, Two Pointers, Sorting | [Note](problems/0015-3sum.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | <span class="badge badge-medium">Medium</span> | Hash Table, String, Backtracking | [Note](problems/0017-letter-combinations-of-a-phone-number.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <span class="badge badge-medium">Medium</span> | Linked List, Two Pointers | [Note](problems/0019-remove-nth-node-from-end-of-list.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <span class="badge badge-easy">Easy</span> | String, Stack | [Note](problems/0020-valid-parentheses.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <span class="badge badge-easy">Easy</span> | Linked List, Recursion | [Note](problems/0021-merge-two-sorted-lists.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -189,7 +190,7 @@
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
-#### 9. Backtracking (8/10)
+#### 9. Backtracking (9/10)
 - [x] [0078. Subsets](problems/0078-subsets.md)
 - [x] [0039. Combination Sum](problems/0039-combination-sum.md)
 - [x] [0040. Combination Sum II](problems/0040-combination-sum-ii.md)
@@ -198,7 +199,7 @@
 - [x] [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
 - [x] [0079. Word Search](problems/0079-word-search.md)
 - [x] [0131. Palindrome Partitioning](problems/0131-palindrome-partitioning.md)
-- [ ] 0017\. Letter Combinations of a Phone Number
+- [x] [0017. Letter Combinations of a Phone Number](problems/0017-letter-combinations-of-a-phone-number.md)
 - [ ] 0051\. N-Queens
 
 #### 10. Tries (3/3)
