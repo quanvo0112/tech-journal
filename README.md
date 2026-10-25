@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **77 / 150 (51%)** | **77** | 19 | 47 | 11 |
+| **78 / 150 (52%)** | **78** | 19 | 48 | 11 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -59,6 +59,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | <span class="badge badge-hard">Hard</span> | Dynamic Programming, Tree, Depth-First Search, Binary Tree | [Note](problems/0124-binary-tree-maximum-path-sum.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span class="badge badge-easy">Easy</span> | Two Pointers, String | [Note](problems/0125-valid-palindrome.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, Union-Find | [Note](problems/0128-longest-consecutive-sequence.md) | <span class="badge badge-solved">Solved</span> | - |
+| 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | <span class="badge badge-medium">Medium</span> | String, Dynamic Programming, Backtracking | [Note](problems/0131-palindrome-partitioning.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span class="badge badge-medium">Medium</span> | Hash Table, Linked List | [Note](problems/0138-copy-list-with-random-pointer.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <span class="badge badge-easy">Easy</span> | Hash Table, Linked List, Two Pointers | [Note](problems/0141-linked-list-cycle.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | <span class="badge badge-medium">Medium</span> | Linked List, Two Pointers, Stack, Recursion | [Note](problems/0143-reorder-list.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -188,7 +189,7 @@
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
-#### 9. Backtracking (7/10)
+#### 9. Backtracking (8/10)
 - [x] [0078. Subsets](problems/0078-subsets.md)
 - [x] [0039. Combination Sum](problems/0039-combination-sum.md)
 - [x] [0040. Combination Sum II](problems/0040-combination-sum-ii.md)
@@ -196,7 +197,7 @@
 - [x] [0090. Subsets II](problems/0090-subsets-ii.md)
 - [x] [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
 - [x] [0079. Word Search](problems/0079-word-search.md)
-- [ ] 0131\. Palindrome Partitioning
+- [x] [0131. Palindrome Partitioning](problems/0131-palindrome-partitioning.md)
 - [ ] 0017\. Letter Combinations of a Phone Number
 - [ ] 0051\. N-Queens
 

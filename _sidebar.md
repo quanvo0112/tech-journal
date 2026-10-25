@@ -80,6 +80,7 @@
 * **Backtracking**
   * [0022. Generate Parentheses](problems/0022-generate-parentheses.md)
   * [0079. Word Search](problems/0079-word-search.md)
+  * [0131. Palindrome Partitioning](problems/0131-palindrome-partitioning.md)
 
 * **Greedy**
   * [0678. Valid Parenthesis String](problems/0678-valid-parenthesis-string.md)
