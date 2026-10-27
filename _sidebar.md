@@ -82,6 +82,7 @@
   * [0079. Word Search](problems/0079-word-search.md)
   * [0131. Palindrome Partitioning](problems/0131-palindrome-partitioning.md)
   * [0017. Letter Combinations of a Phone Number](problems/0017-letter-combinations-of-a-phone-number.md)
+  * [0051. N-Queens](problems/0051-n-queens.md)
 
 * **Greedy**
   * [0678. Valid Parenthesis String](problems/0678-valid-parenthesis-string.md)

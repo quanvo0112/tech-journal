@@ -10,7 +10,7 @@
 
 | Progress | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **79 / 150 (53%)** | **79** | 19 | 49 | 11 |
+| **80 / 150 (53%)** | **80** | 19 | 49 | 12 |
 
 #### 2. Machine Learning from Scratch (NeetCode ML)
 
@@ -44,6 +44,7 @@
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <span class="badge badge-hard">Hard</span> | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [Note](problems/0042-trapping-rain-water.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking | [Note](problems/0046-permutations.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <span class="badge badge-medium">Medium</span> | Array, Hash Table, String, Sorting | [Note](problems/0049-group-anagrams.md) | <span class="badge badge-solved">Solved</span> | 2026-09-26 |
+| 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | <span class="badge badge-hard">Hard</span> | Array, Backtracking | [Note](problems/0051-n-queens.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span class="badge badge-medium">Medium</span> | Array, Binary Search, Matrix | [Note](problems/0074-search-a-2d-matrix.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span class="badge badge-hard">Hard</span> | Hash Table, String, Sliding Window | [Note](problems/0076-minimum-window-substring.md) | <span class="badge badge-solved">Solved</span> | - |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | <span class="badge badge-medium">Medium</span> | Array, Backtracking, Bit Manipulation | [Note](problems/0078-subsets.md) | <span class="badge badge-solved">Solved</span> | - |
@@ -190,7 +191,7 @@
 - [x] [0355. Design Twitter](problems/0355-design-twitter.md)
 - [x] [0295. Find Median from Data Stream](problems/0295-find-median-from-data-stream.md)
 
-#### 9. Backtracking (9/10)
+#### 9. Backtracking (10/10)
 - [x] [0078. Subsets](problems/0078-subsets.md)
 - [x] [0039. Combination Sum](problems/0039-combination-sum.md)
 - [x] [0040. Combination Sum II](problems/0040-combination-sum-ii.md)
@@ -200,7 +201,7 @@
 - [x] [0079. Word Search](problems/0079-word-search.md)
 - [x] [0131. Palindrome Partitioning](problems/0131-palindrome-partitioning.md)
 - [x] [0017. Letter Combinations of a Phone Number](problems/0017-letter-combinations-of-a-phone-number.md)
-- [ ] 0051\. N-Queens
+- [x] [0051. N-Queens](problems/0051-n-queens.md)
 
 #### 10. Tries (3/3)
 - [x] [0208. Implement Trie (Prefix Tree)](problems/0208-implement-trie-prefix-tree.md)
